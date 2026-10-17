@@ -1,0 +1,6 @@
+{
+  "name": "HELIOZ CLOTHING",
+  "description": "Premium heavyweight t-shirts and custom group apparel with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
